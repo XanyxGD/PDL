@@ -1,0 +1,35 @@
+{
+    "id": "Main Level",
+    "name": "Demon Park",
+    "author": "M2coL",
+    "creators": ["M2coL"],
+    "verifier": "M2coL",
+    "verification": "https://www.youtube.com/watch?v=Zzs3NNawfcA&pp=ygUUcG9seSBkYXNoIGRlbW9uIHBhcms%3D",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "sp0nplays",
+            "link": "https://youtu.be/hWvnkeQwCJk?si=WiFjV4bWCaQTv5us",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Cyclestar",
+            "link": "https://youtu.be/qADDzJqXth8?si=yJHcp7neae_CD8-O",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "MagmaFilda",
+            "link": "https://www.youtube.com/watch?v=FVlyG7uWMPc",
+            "percent": 100,
+            "hz": 165
+        },
+        {
+            "user": "stevenyw",
+            "link": "https://www.youtube.com/watch?v=GWdOhI0Z21w",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
