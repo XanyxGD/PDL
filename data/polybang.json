@@ -7,11 +7,11 @@
     "verification": "https://www.youtube.com/watch?v=p_2VeQrxuzI",
     "percentToQualify": 100,
     "records": [
-    {
-        "user": "SimonCTM",
-        "link": "https://www.youtube.com/watch?v=p_2VeQrxuzI",
-        "percent": 100,
-        "hz": 165
-    }
+        {
+            "user": "SimonCTM",
+            "link": "https://www.youtube.com/watch?v=p_2VeQrxuzI",
+            "percent": 100,
+            "hz": 165
+        }
     ]
 }
