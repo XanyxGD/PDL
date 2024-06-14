@@ -104,10 +104,10 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                      <p>
-                        Achieved the record without using hacks (physics bypass is not allowed).
+                        Achieved the record without using any sort of hacks.
                     </p>
                      <p>
-                        You cannot submit a record for another player under any circumstance.  We will reject the record if the names of the record holder and the record submitter do not match. (Your discord name does not have to match the leaderboard name, however all records are at the discretion of the person reviewing it to prevent bypassing this rule.)
+                        You cannot submit a record for another player under any circumstance.  We will reject the record if the names of the record holder and the record submitter do not match. (Your discord name does not have to match the leaderboard name, however all records are at the discretion of the person reviewing it to prevent bypassing this rule, btw this list isn't +13 anyway wyd?.)
                     </p>
                     <p>
                         Switching FPS in the middle of the completion will invalidate your submission (even if it is to avoid a bug).
@@ -122,10 +122,7 @@ export default {
                    The recording must include the level from 0% - 100% with no parts missing.
                     </p>
                     <p>
-                        The recording must have a previous attempt and entire death animation shown before the completion, regardless of whether or not you're using cheat indicator or have clicks. Everyplay records and first attempt completions are exempt from this, though the latter will require the level menu to be visible.
-                    </p>
-                    <p>
-                        The recording must also show the entire endscreen animation, or the completion will be invalidated.
+                        If the record is a main level, the recording must also show the entire endscreen animation, or the completion will be invalidated.
                     </p>
                     <p>
                         Do not use secret routes or bug routes.
@@ -134,13 +131,7 @@ export default {
                         Do not use easy modes, only a record of the unmodified level qualifies.
                     </p>
                     <p>
-                        Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level.
-                    </p>
-                     <p>
-                       Privating a video will result in the immediate removal of the associated record.
-                    </p>
-                    <p>
-                       Submissions for two player levels must include clear audible clicks, or your record will automatically be rejected.
+                    Making the record proof unable to watch will have the record be immediately rejected.
                     </p>
                 </div>
             </div>
