@@ -4,11 +4,20 @@
         "levels": [
             "past_funk",
             "poly_circles",
-            "azure_paralyzer",
+            "polybreaker",
             "tsuki",
             "stereophonic_system"
         ],
         "colour": "#e8e8e8"
+    },
+    {
+        "name": "sp0nplays Pack",
+        "levels": [
+            "past_funk",
+            "poly_circles",
+            "polybreaker"
+        ],
+        "colour": "#fa02b8"
     },
     {
         "name": "HDL Alphabet",
