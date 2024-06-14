@@ -5,7 +5,7 @@
  ((percent - (minPercent - 1)) / (100 - (minPercent - 1))
  -0.939597 * (rank)) + 150.939597
  */
-const scale = 3;
+const scale = 1;
 
 /**
  * Calculate the score awarded when having a certain percentage on a list level
