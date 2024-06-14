@@ -1,0 +1,29 @@
+{
+    "id": "Main Level",
+    "name": "Theory of Everything 2",
+    "author": "fatmario420",
+    "creators": ["fatmario420"],
+    "verifier": "MN32",
+    "verification": "https://www.youtube.com/watch?v=PPDD1w58Hsg",
+    "percentToQualify": 85,
+    "records": [
+        {
+            "user": "sp0nplays",
+            "link": "https://youtu.be/j7RqjInF3xQ",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "MagmaFilda",
+            "link": "https://www.youtube.com/watch?v=XGvyOUFGOKo",
+            "percent": 100,
+            "hz": 165
+        },
+        {
+            "user": "stevenyw",
+            "link": "https://www.youtube.com/watch?v=xKK-MSilIhY",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
