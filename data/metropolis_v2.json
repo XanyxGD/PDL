@@ -1,0 +1,47 @@
+{
+    "id": "Main Level",
+    "name": "Metropolis V2",
+    "author": "fatmario420",
+    "creators": ["fatmario420"],
+    "verifier": "fatmario420",
+    "verification": "https://youtu.be/aw34T3ducWs",
+    "percentToQualify": "100",
+    "records": [
+         {
+            "user": "sp0nplays",
+            "link": "https://youtu.be/hWvnkeQwCJk?si=WiFjV4bWCaQTv5us",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Cyclestar",
+            "link": "https://youtu.be/DoP_DGA1shU?si=MUgx__eEeIpK2iur",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "SimonCMT",
+            "link": "https://www.youtube.com/watch?v=jt9MMb5YTb4",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "MagmaFilda",
+            "link": "https://www.youtube.com/watch?v=IU5FLcvGKcU",
+            "percent": 100,
+            "hz": 165
+        },
+        {
+            "user": "XanyxGD",
+            "link": "https://www.youtube.com/watch?v=Vp3xp2BxhzY",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "stevenyw",
+            "link": "https://www.youtube.com/watch?v=trWmf1p-wpY",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
