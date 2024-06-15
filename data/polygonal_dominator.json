@@ -1,0 +1,18 @@
+{
+	"id": 16762658,
+	"name": "Polygonal Dominator",
+	"author": "BlockonGD",
+	"creators": ["BlockonGD"],
+	"verifier": "BlockonGD",
+	"verification": "https://www.youtube.com/watch?v=2Z_YU-2YcqY",
+	"percentToQualify": 100,
+	"password": "Free to Copy",
+	"records": [
+		{
+			"user": "xanyxgd",
+			"link": "https://www.youtube.com/watch?v=Bf6F7nuI_do",
+			"percent": 100,
+			"hz": 60
+		}
+	]
+}
