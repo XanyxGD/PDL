@@ -24,6 +24,7 @@
         "levels": [
             "poly_circles",
             "polybreaker",
+            "polygonal_force",
             "polybang",
             "polygonal_dominator"
         ],
