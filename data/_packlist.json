@@ -27,5 +27,14 @@
             "polybang"
         ],
         "colour": "#dec20d"
+    },
+    {
+        "name": "Beginner Pack I",
+        "levels": [
+            "retray",
+            "stereo_madness",
+            "back_on_track"
+        ],
+        "colour": "#34a4eb"
     }
 ]
