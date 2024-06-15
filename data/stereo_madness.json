@@ -7,6 +7,12 @@
     "verification": "https://www.youtube.com/watch?v=NIPLcqfWbwg",
     "percentToQualify": 100,
     "records": [
+        {
+            "user": "MagmaFilda",
+            "link": "https://www.youtube.com/watch?v=07dcPy2wzls&t=512s",
+            "percent": 100,
+            "hz": 165
+        }
     ]
 }
          
