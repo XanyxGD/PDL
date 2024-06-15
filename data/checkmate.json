@@ -6,7 +6,13 @@
 	"verifier": "sp0nplays",
 	"verification": "https://www.youtube.com/watch?v=S_n9rRto-WQ",
 	"percentToQualify": 100,
-	"password": "n/a",
+	"password": "N/A",
 	"records": [
+        {
+            "user": "MagmaFilda",
+            "link": "https://www.youtube.com/watch?v=FVlyG7uWMPc&t=17s",
+            "percent": 100,
+            "hz": 165
+        }
 	]
 }
