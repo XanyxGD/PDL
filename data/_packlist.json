@@ -11,12 +11,21 @@
         "colour": "#e8e8e8"
     },
     {
-        "name": "sp0nplays Pack",
+        "name": "sp0nplays pack",
         "levels": [
             "past_funk",
             "poly_circles",
             "polybreaker"
         ],
         "colour": "#fa02b8"
+    },
+    {
+        "name": "Poly Pack",
+        "levels": [
+            "poly_circles",
+            "polybreaker",
+            "polybang"
+        ],
+        "colour": "#dec20d"
     }
 ]
