@@ -1,0 +1,24 @@
+{
+	"id": "Main Level",
+	"name": "Polargeist",
+	"author": "beefchip",
+	"creators": ["beefchip"],
+	"verifier": "sp0nplays",
+	"verification": "https://www.youtube.com/watch?v=NIPLcqfWbwg",
+	"percentToQualify": 100,
+	"password": "N/A",
+	"records": [
+		{
+			"user": "SimonCTM",
+			"link": "https://www.youtube.com/watch?v=NHMXC0w_ZVc",
+			"percent": 100,
+			"hz": 165
+		},
+		{
+			"user": "MagmaFilda",
+			"link": "https://www.youtube.com/watch?v=07dcPy2wzls&t=512s",
+			"percent": 100,
+			"hz": 165
+		}
+	]
+}
