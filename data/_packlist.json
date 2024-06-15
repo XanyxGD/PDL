@@ -30,6 +30,15 @@
         "colour": "#ffd700"
     },
     {
+        "name": "E Pack",
+        "levels": [
+            "electrodynamix",
+            "electroman_adventures",
+            "eurorave_delirium"
+        ],
+        "colour": "#e0e0e0"
+    },
+    {
         "name": "Beginner Pack I",
         "levels": [
             "retray",
