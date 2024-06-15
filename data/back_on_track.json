@@ -1,0 +1,20 @@
+{
+	"id": "Main Level",
+	"name": "Back on Track",
+	"author": "beefchip",
+	"creators": [
+		"beefchip"
+	],
+	"verifier": "Cyclestar",
+	"verification": "https://www.youtube.com/watch?v=BUdrDreXJAA",
+	"percentToQualify": 100,
+	"password": "N/A",
+	"records": [
+		{
+			"user": "sp0nplays",
+			"link": "https://youtu.be/NIPLcqfWbwg",
+			"percent": 100,
+			"hz": 144
+		}
+	]
+}
