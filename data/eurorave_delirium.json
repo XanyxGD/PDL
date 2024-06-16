@@ -8,5 +8,11 @@
 	"percentToQualify": 100,
 	"password": "Free to Copy",
 	"records": [
+        {
+            "user": "SimonCTM",
+            "link": "https://www.youtube.com/watch?v=UKv0T1ULPcA&t=0s",
+            "percent": 100,
+            "hz": 165
+        }
 	]
 }
