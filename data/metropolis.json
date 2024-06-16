@@ -8,5 +8,11 @@
 	"percentToQualify": 100,
 	"password": "N/A",
 	"records": [
+        {
+            "user": "MagmaFilda",
+            "link": " https://www.youtube.com/watch?v=FVlyG7uWMPc&t=17s",
+            "percent": 100,
+            "hz": 165
+        }
 	]
 }
