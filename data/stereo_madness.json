@@ -24,6 +24,12 @@
             "link": "https://youtu.be/GVw71cSTKjI?si=m4EeZlk65NMosQDM",
             "percent": 100,
             "hz": 120
-        }
+        },
+        {
+			"user": "SimonCTM",
+			"link": "https://www.youtube.com/watch?v=NHMXC0w_ZVc",
+			"percent": 100,
+			"hz": 165
+		}
     ]
 }
