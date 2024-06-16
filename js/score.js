@@ -1,6 +1,11 @@
 /**
- * Numbers of decimal digits to round to
+ * Basefactor for parameters a and b
+ * basefactor = 1/(18000000/(100+minpoints)^2-50)
+ * 
+ * current basefactor for minpoints = 1
  */
+const baseFactor = 0.0005832492374192035997815;
+
 const scale = 1;
 
 /**
@@ -8,23 +13,14 @@ const scale = 1;
  * @param {Number} rank Position on the list
  * @param {Number} percent Percentage of completion
  * @param {Number} minPercent Minimum percentage required
+ * @Param {Number} levelCount Current number of levels
  * @returns {Number}
  */
-export function score(rank, percent, minPercent) {
-    if (rank > 150) {
-        return 0;
-    }
-    if (rank > 75 && percent < 100) {
-        return 0;
-    }
+export function score(rank, percent, minPercent, levelCount) {
+    const b = (levelCount - 1) * baseFactor
+    const a = 600 * Math.sqrt(b)
 
-    // Old formula
-    /*
-    let score = (100 / Math.sqrt((rank - 1) / 50 + 0.444444) - 50) *
-        ((percent - (minPercent - 1)) / (100 - (minPercent - 1)));
-    */
-    // New formula
-    let score = (-24.9975*Math.pow(rank-1, 0.4) + 500) *
+    let score = (a / Math.sqrt((rank - 1) / 50 + b) - 100) *
         ((percent - (minPercent - 1)) / (100 - (minPercent - 1)));
 
     score = Math.max(0, score);
@@ -33,7 +29,20 @@ export function score(rank, percent, minPercent) {
         return round(score - score / 3);
     }
 
-    return Math.max(round(score), 0);
+    return round(score);
+}
+
+export function calculateScores(levelCount) {
+    const b = (levelCount - 1) * baseFactor;
+    const a = 600 * Math.sqrt(b);
+
+    let scores = [];
+    for (let rank = 0; rank < levelCount; ++rank) {
+        const score = (a / Math.sqrt(rank / 50 + b) - 100);
+        scores.push(round(score));
+    }
+
+    return scores;
 }
 
 export function round(num) {
