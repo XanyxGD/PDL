@@ -1,6 +1,6 @@
 {
     "id": "Main Level",
-    "name": "Polygonal Force",
+    "name": "Polygon Force",
     "author": "beefchip",
     "creators": ["beefchip"],
     "verifier": "beefchip",
@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "N/A",
     "records": [
+        {
+            "user": "MagmaFilda",
+            "link": "https://www.youtube.com/watch?v=IU5FLcvGKcU&t=283s",
+            "percent": 100,
+            "hz": 165
+        }
     ]
 }
