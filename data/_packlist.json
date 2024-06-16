@@ -31,12 +31,20 @@
         "colour": "#e0e0e0"
     },
     {
-        "name": "Ship Control Pack",
+        "name": "Ship Control Pack I",
         "levels": [
             "clutterfunk",
             "cycles",
-            "portal_madness",
-            "jumper"
+            "portal_madness"
+        ],
+        "colour": "#e0e0e0"
+    },
+    {
+        "name": "Ship Control Pack II",
+        "levels": [
+            "clubstep",
+            "electrodynamix",
+            "polygonal_force"
         ],
         "colour": "#e0e0e0"
     },
