@@ -22,6 +22,15 @@
         "colour": "#ffd700"
     },
     {
+        "name": "Cube Consistency Pack",
+        "levels": [
+            "time_machine",
+            "jumper",
+            "cant_let_go"
+        ],
+        "colour": "#e0e0e0"
+    },
+    {
         "name": "E Pack",
         "levels": [
             "electrodynamix",
