@@ -43,18 +43,18 @@
     {
         "name": "Beginner Pack I",
         "levels": [
-            "retray",
             "stereo_madness",
-            "back_on_track"
+            "back_on_track",
+            "polargeist"
         ],
         "colour": "#cd7f32"
     },
     {
         "name": "Beginner Pack II",
         "levels": [
-            "polargeist",
             "eurorave_delirium",
-            "dry_out"
+            "dry_out",
+            "base_after_base"
         ],
         "colour": "#cd7f32"
     }
