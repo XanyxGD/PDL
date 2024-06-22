@@ -2,11 +2,11 @@
     {
         "name": "Top 5 Pack",
         "levels": [
+            "polybath",
             "past_funk",
             "poly_circles",
             "polybreaker",
-            "demon_park",
-            "metropolis_v2"
+            "demon_park"
         ],
         "colour": "#ffd700"
     },
