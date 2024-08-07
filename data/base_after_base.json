@@ -1,16 +1,22 @@
 {
-	"id": "Main Level",
-	"name": "Base after Base",
-	"author": "beefchip",
-	"creators": ["beefchip"],
-	"verifier": "MagmaFilda",
+	"id": "254564",
+	"name": "slaughterXAS",
+	"author": "xanyxgmd",
+	"creators": ["xanyxgmd"],
+	"verifier": "xanyxgmd",
 	"verification": "https://www.youtube.com/watch?v=07dcPy2wzls&t=344s",
 	"percentToQualify": 100,
-	"password": "N/A",
+	"password": "Free to Copy",
 	"records": [
         {
-			"user": "SimonCTM",
-			"link": "https://www.youtube.com/watch?v=NHMXC0w_ZVc",
+            "user": "Lefty",
+            "link": "https://cdn.discordapp.com/attachments/1268986264091234307/1270886422353809438/2024-08-07_18-28-30.mp4?ex=66b554b7&is=66b40337&hm=58ef37f0884ba14591c06aeadcb42e0494b0c4a5febbc87974fce0ce49ec3f2f&",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+			"user": "blawg",
+			"link": "https://cdn.discordapp.com/attachments/1268986264091234307/1270886900718112809/Game_240807210022.mp4?ex=66b55529&is=66b403a9&hm=fdcab11e19afcfa4f108c0a197e0f8e6401e64d90687f740a5f3754489dd691d&",
 			"percent": 100,
 			"hz": 165
 		}
