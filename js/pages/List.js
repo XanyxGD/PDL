@@ -106,12 +106,6 @@ export default {
                      <p>
                         Achieved the record without using any sort of hacks.
                     </p>
-                     <p>
-                        You cannot submit a record for another player under any circumstance.  We will reject the record if the names of the record holder and the record submitter do not match. (Your discord name does not have to match the leaderboard name, however all records are at the discretion of the person reviewing it to prevent bypassing this rule, btw this list isn't +13 anyway wyd?.)
-                    </p>
-                    <p>
-                        Switching FPS in the middle of the completion will invalidate your submission (even if it is to avoid a bug).
-                    </p>
                     <p>
                         Achieved the record on the level that is listed on the site - please check the level ID before you submit a record.
                     </p>
@@ -120,9 +114,6 @@ export default {
                     </p>
                     <p>
                    The recording must include the level from 0% - 100% with no parts missing.
-                    </p>
-                    <p>
-                        If the record is a main level, the recording must also show the entire endscreen animation, or the completion will be invalidated.
                     </p>
                     <p>
                         Do not use secret routes or bug routes.
