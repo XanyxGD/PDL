@@ -1,38 +1,14 @@
 {
-	"id": "Main Level",
-	"name": "Back on Track",
-	"author": "beefchip",
+	"id": "254458",
+	"name": "sakupen XAS",
+	"author": "blawg",
 	"creators": [
-		"beefchip"
+		"blawg"
 	],
-	"verifier": "Cyclestar",
-	"verification": "https://www.youtube.com/watch?v=BUdrDreXJAA",
+	"verifier": "blawg",
+	"verification": "https://youtu.be/XnwtuhCTvfA",
 	"percentToQualify": 100,
-	"password": "N/A",
+	"password": "Free to Copy",
 	"records": [
-		{
-			"user": "sp0nplays",
-			"link": "https://youtu.be/NIPLcqfWbwg",
-			"percent": 100,
-			"hz": 144
-		},
-        {
-            "user": "MagmaFilda",
-            "link": "https://www.youtube.com/watch?v=07dcPy2wzls&t=512s",
-            "percent": 100,
-            "hz": 165
-        },
-        {
-            "user": "xanyxgd",
-            "link": "https://youtu.be/fpa9fXAumhY",
-            "percent": 100,
-            "hz": 60
-        },
-        {
-			"user": "SimonCTM",
-			"link": "https://www.youtube.com/watch?v=NHMXC0w_ZVc",
-			"percent": 100,
-			"hz": 165
-		}
 	]
 }
