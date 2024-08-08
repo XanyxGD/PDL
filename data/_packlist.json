@@ -1,12 +1,11 @@
 [
     {
-        "name": "Top 5 Pack",
+        "name": "Famous Level Name Pack",
         "levels": [
-            "polybath",
-            "past_funk",
-            "poly_circles",
-            "polybreaker",
-            "demon_park"
+            "beatdemon",
+            "back_on_track",
+            "base_after_base",
+            "polybreaker"
         ],
         "colour": "#ffd700"
     },
