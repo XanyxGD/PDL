@@ -5,73 +5,8 @@
             "beatdemon",
             "back_on_track",
             "base_after_base",
-            "polybreaker"
+            "beast_mayhem_ii"
         ],
         "colour": "#ffd700"
-    },
-    {
-        "name": "Poly Pack",
-        "levels": [
-            "poly_circles",
-            "polybreaker",
-            "polygonal_force",
-            "polybang",
-            "polygonal_dominator"
-        ],
-        "colour": "#ffd700"
-    },
-    {
-        "name": "Cube Consistency Pack",
-        "levels": [
-            "time_machine",
-            "jumper",
-            "cant_let_go"
-        ],
-        "colour": "#e0e0e0"
-    },
-    {
-        "name": "E Pack",
-        "levels": [
-            "electrodynamix",
-            "electroman_adventures",
-            "eurorave_delirium"
-        ],
-        "colour": "#e0e0e0"
-    },
-    {
-        "name": "Ship Control Pack I",
-        "levels": [
-            "clutterfunk",
-            "cycles",
-            "portal_madness"
-        ],
-        "colour": "#e0e0e0"
-    },
-    {
-        "name": "Ship Control Pack II",
-        "levels": [
-            "clubstep",
-            "electrodynamix",
-            "polygonal_force"
-        ],
-        "colour": "#e0e0e0"
-    },
-    {
-        "name": "Beginner Pack I",
-        "levels": [
-            "stereo_madness",
-            "back_on_track",
-            "polargeist"
-        ],
-        "colour": "#cd7f32"
-    },
-    {
-        "name": "Beginner Pack II",
-        "levels": [
-            "eurorave_delirium",
-            "dry_out",
-            "base_after_base"
-        ],
-        "colour": "#cd7f32"
     }
 ]
