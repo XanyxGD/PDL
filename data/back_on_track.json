@@ -10,5 +10,11 @@
 	"percentToQualify": 100,
 	"password": "Free to Copy",
 	"records": [
+        {
+            "user": "Lefty",
+            "link": "https://youtu.be/7ou404hwlbc",
+            "percent": 100,
+            "hz": 240
+        }
 	]
 }
